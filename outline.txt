@@ -1,0 +1,83 @@
+
+							AI in Cybersecurity: A Deep Dive into Detecting Domain Phishing
+
+Title: AI in Cybersecurity: Detecting Domain Phishing
+Subtitle: Leveraging Deep Learning Models
+Author: Dominik Huffield
+
+Introduction to Cybersecurity
+•	Brief overview of cybersecurity threats
+•	Importance of proactive measures
+•	Introduction to domain phishing
+
+
+What is Artificial Intelligence?
+•	A brief history
+•	Machine Learning vs Deep Learning
+
+
+Dangers AI Imposes to the Cyber Space
+•	Story about a deep fake attack
+
+
+Using AI to Fight Fire with Fire
+•	Leveraging AI for cybersecurity defense
+
+
+What is Domain Phishing?
+•	Definition and common tactics used by attackers
+•	Impact on organizations and individuals
+
+
+Traditional Approaches vs. AI in Cybersecurity
+•	Comparison of conventional methods vs. AI-driven approaches
+
+
+Prerequisite Knowledge about Learning Techniques
+•	Explanation of natural language processing
+•	Optimization problems
+•	Basics of neural networks
+•	Comparison: CNN vs RNN
+
+
+Dataset Preparation
+•	Importance of high-quality data
+•	Data collection and preprocessing steps
+
+
+Building the Model
+•	Overview of model architecture selection
+•	Training process and hyperparameter tuning
+
+
+Feature Engineering
+•	Techniques for selecting and engineering features
+
+
+Model Evaluation and Validation
+•	Cross-validation techniques
+•	Metrics for evaluating model performance
+
+
+Serving the Model
+•	Integrating with cloud environments
+
+
+Challenges and Future Direction
+•	Addressing challenges like imbalanced datasets
+•	Future directions in AI-driven cybersecurity
+
+
+Conclusion
+•	Recap of key points
+•	Importance of AI in cybersecurity
+•	Encouragement for further research and development
+
+
+Entering the AI Space
+•	Popular programming languages for AI development
+•	Roadmaps for learning AI concepts
+
+
+Q&A
+•	Open floor for questions and discussion
